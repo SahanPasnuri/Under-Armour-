@@ -1,0 +1,22 @@
+header{
+    background-color: grey;
+    padding: 10px;
+}
+li{
+    display: inline-block;
+    padding: 10px;
+    font-size: 20px;
+}
+body{
+    background-color: rgb(233, 222, 222);
+}
+.box{
+    width: 22%;
+    height: 500px;
+    background-color: grey;
+    border-radius: 12px;
+    margin: 5px;
+    padding: 10px;
+    display: inline-block;
+    float: left;
+}
